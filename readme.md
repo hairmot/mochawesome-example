@@ -1,1 +1,1 @@
-[link](https://github.com/hairmot/mochawesome-example.git)
+[link](https://hairmot.github.io/mochawesome-example/index.html)
